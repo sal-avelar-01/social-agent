@@ -1,0 +1,4 @@
+anthropic>=0.40.0
+requests>=2.31.0
+# No additional deps needed — Buffer API uses standard requests
+# difflib is stdlib
