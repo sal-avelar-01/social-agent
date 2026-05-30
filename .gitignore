@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Secrets / local config
+*.env
+CLAUDE.local.md
+
+# Data files (not committed per CLAUDE.md)
+data/engagement.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
